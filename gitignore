@@ -1,0 +1,19 @@
+
+# Ignorar todos los archivos Markdown
+*.md
+
+# ¡Excepto README.md!
+!README.md
+
+# Archivos temporales comunes
+*.swp
+*.tmp
+*.bak
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno o configuraciones locales
+.env
