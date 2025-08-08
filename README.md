@@ -72,7 +72,7 @@ Con cada segmento coloreado y formateado para facilitar la lectura.
 |--------------------------------|----------------------|--------|------------------------------------|
 | Usuario y host (`\u@\h`)       | `\033[01;32m`        | 🟢 Verde  | Para destacar el usuario conectado |
 | Ruta actual (`\w`)             | `\033[01;34m`        | 🔵 Azul   | Para mostrar el directorio activo  |
-| Rama Git actual                | `\033[1;36m`         | 🟦 Celeste| Identificador de rama (`⎇[main]`) |
+| Rama Git actual                | `\033[1;36m`         | 🟦 Cian| Identificador de rama (`⎇[main]`) |
 | Texto por defecto              | `\033[0m`            | ⚪ Gris   | Restaura el color a normal         |
 
 ### 📁 Colores para estados de Git
