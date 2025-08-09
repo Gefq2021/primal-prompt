@@ -16,8 +16,37 @@ Este proyecto nació de la necesidad de contar con un entorno de línea de coman
 
 Con un enfoque limpio y centrado en la experiencia del desarrollador, **Primal Prompt** permite identificar rápidamente la rama activa y el estado del repositorio Git, mejorando el flujo de trabajo sin distraer.
 
+<br>
+
+---
+
+## 📋 Requisitos y Compatibilidad
+
+### ✅ **Entorno Probado y Confirmado**  
+| Componente       | Versión/Detalle                     |
+|------------------|-------------------------------------|
+| **Distribución** | Ubuntu 24.04 LTS (Noble Numbat)     |
+| **Terminal**     | GNOME Terminal 3.52.0 (GNOME 46)    |
+| **Shell**        | Bash 5.2+                          |
+| **Git**          | 2.34+                              |
+
+### 🌍 **Compatibilidad Teórica**  
+
+El script *debería* funcionar en: 
+
+- Otras distribuciones basadas en Debian (Linux Mint, Pop!_OS).  
+- MacOS (con Bash como shell predeterminado).  
+- Windows (WSL2 con Ubuntu o Git Bash).  
+
+⚠️ **Notas importantes**:  
+
+- Los colores ANSI pueden variar en terminales no-GNOME (Konsole, Alacritty).  
+- Si usas otro sistema, ¡puedes probarlo y reportar resultados!.  
 
 <br>
+
+---
+
 
 ## ✅ Funcionalidades implementadas (Primera etapa)
 
