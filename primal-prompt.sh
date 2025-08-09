@@ -5,7 +5,7 @@
 
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║  CONFIGURACIÓN AVANZADA DEL PROMPT BASH CON GIT BRANCH Y STATUS      ║
-# ║     Personalización desarrollada por Gerardo F. Quispe - 2025        ║
+# ║                                                                      ║
 # ╚══════════════════════════════════════════════════════════════════════╝
 # Personalizacion desarrollada por Gerardo Fabián Quispe - 2025
 # Incluye:
