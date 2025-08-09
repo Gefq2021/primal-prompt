@@ -22,7 +22,7 @@ Con un enfoque limpio y centrado en la experiencia del desarrollador, **Primal P
 
 ## 📋 Requisitos y Compatibilidad
 
-### ✅ **Entorno Probado y Confirmado**  
+### ✅ **Entorno Probado y Confirmado**
 | Componente       | Versión/Detalle                     |
 |------------------|-------------------------------------|
 | **Distribución** | Ubuntu 24.04 LTS (Noble Numbat)     |
@@ -30,7 +30,7 @@ Con un enfoque limpio y centrado en la experiencia del desarrollador, **Primal P
 | **Shell**        | Bash 5.2+                          |
 | **Git**          | 2.34+                              |
 
-### 🌍 **Compatibilidad Teórica**  
+### 🌍 **Compatibilidad Teórica**
 
 El script *debería* funcionar en: 
 
@@ -111,6 +111,15 @@ Con cada segmento coloreado y formateado para facilitar la lectura.
 | Modificados  | `M:x`  | 🔴 Rojo  | `\[\033[0;31m\]` | Archivos que fueron editados pero no stageados |
 | Staged       | `S:x`  | 🟢 Verde | `\[\033[0;32m\]` | Archivos preparados para commit                |
 | Untracked    | `U:x`  | ⚪ Gris  | `\[\033[0;37m\]` | Archivos nuevos no seguidos por Git            |
+
+### ⚠️ Compatibilidad de colores en terminal 🎨
+
+Este script utiliza códigos ANSI para mostrar colores y estilos (como negrita) en la terminal. Tené en cuenta que:
+
+- Los colores pueden variar según el emulador de terminal y su configuración.
+- Algunos estilos como negrita o fondo de color pueden no verse igual en todas las terminales.
+- Se recomienda usar una terminal con soporte completo de ANSI para una mejor experiencia visual.
+
 
 <br>
 
