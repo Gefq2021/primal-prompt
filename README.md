@@ -10,7 +10,7 @@
 
 ## ✨ ¿Qué es *Primal Prompt*?
 
-**Primal Prompt** es una personalización del prompt de Bash en sist 🐧emas Linux, especialmente pensada para usuarios de Ubuntu que trabajan con Git y desean una interfaz más informativa, visualmente clara y agradable de usar en el día a día.
+**Primal Prompt** es una personalización del prompt de Bash en sistemas Linux, especialmente pensada para usuarios de Ubuntu que trabajan con Git y desean una interfaz más informativa, visualmente clara y agradable de usar en el día a día.
 
 Este proyecto nació de la necesidad de contar con un entorno de línea de comandos más funcional, sin resultar abrumador. Quise desarrollar una herramienta que no solo fuera atractiva, sino también **sobria**, **minimalista** y **elegante** — evitando una saturación de colores o datos innecesarios, pero mostrando lo esencial con precisión.
 
