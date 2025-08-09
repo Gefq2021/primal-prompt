@@ -111,9 +111,9 @@ if [ "$color_prompt" = yes ]; then
       # Procesar cada estado con su color correspondiente
       for item in $status; do
         case $item in
-          M:*) colored_status+="\[\033[0;31m\]${item}\[\033[0m\] " ;;  # Rojo para modificados
-          S:*) colored_status+="\[\033[0;32m\]${item}\[\033[0m\] " ;;  # Verde para staged
-          U:*) colored_status+="\[\033[0;37m\]${item}\[\033[0m\] " ;;  # Gris para untracked
+          M:*) colored_status+="\[\033[1;31m\]${item}\[\033[0m\] " ;;  # Rojo para modificados
+          S:*) colored_status+="\[\033[1;32m\]${item}\[\033[0m\] " ;;  # Verde para staged
+          U:*) colored_status+="\[\033[1;37m\]${item}\[\033[0m\] " ;;  # Gris para untracked
         esac
       done;
       echo "(${colored_status% })";  # Eliminar espacio final y mostrar entre paréntesis
